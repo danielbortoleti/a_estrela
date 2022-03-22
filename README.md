@@ -34,7 +34,7 @@ Usamos o Python 🐍 como linguagem com o auxilio de algumas libs.
 <h2 align="center"><strong>Feito por:</strong></h2>
   Daniel Bortoleti Melo, Stella Rufino, Mayara Rosa
 
-<h2 align="center"><strong>Links :</strong></h2>
+<h2 align="center"><strong> Execução :</strong></h2>
 
 Vídeo/Explicação 🎥: https://youtu.be/sTSvRrLYJLo
 
