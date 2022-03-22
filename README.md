@@ -36,6 +36,6 @@ Usamos o Python 🐍 como linguagem com o auxilio de algumas libs.
 
 <h2 align="center"><strong> Execução :</strong></h2>
 
-Vídeo/Explicação 🎥: https://youtu.be/sTSvRrLYJLo
+Vídeo/Explicação 🎥:<br><br> <img src="ep_A_estrela.gif" width="800px" height="600px"/>
 
 </div>
